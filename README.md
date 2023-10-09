@@ -9,6 +9,8 @@ Achieved evaluation metrics for classification:
 
 
 
+
+
 Achieved evaluation metrics for detection:
 
 
@@ -17,6 +19,27 @@ Achieved evaluation metrics for detection:
 
 
 <img width="432" alt="image" src="https://github.com/hritika1025/Auto-WCEBleedGen-Challenge-/assets/85919546/b40ec6ab-1f3e-478b-b7e2-e3c4e9bca743">
+
+
+
+
+
+
+Validation dataset showing classfication:
+
+
+
+
+
+
+
+<img width="309" alt="image" src="https://github.com/hritika1025/Auto-WCEBleedGen-Challenge-/assets/85919546/e9f16f2d-8c2e-4a00-a4b5-90eee205324d">
+
+
+
+
+
+
 
 
 
