@@ -25,7 +25,8 @@ Achieved evaluation metrics for detection:
 
 
 
-Validation dataset showing classfication:
+Validation images showing classfication:
+
 
 
 
@@ -34,6 +35,38 @@ Validation dataset showing classfication:
 
 
 <img width="309" alt="image" src="https://github.com/hritika1025/Auto-WCEBleedGen-Challenge-/assets/85919546/e9f16f2d-8c2e-4a00-a4b5-90eee205324d">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validation images showing detection(bounding box with confidence level) :
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/hritika1025/Auto-WCEBleedGen-Challenge-/assets/85786570/aeeef587-c8f8-40f4-a82c-07fa12197638)
+
+
+
 
 
 
